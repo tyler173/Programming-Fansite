@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
   <head>
     <meta charset="utf-8">
@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="tyler.css">
   </head>
     <hr>
-  <body>
+  <body background-color:#ffc15e;>
     <center>
     <h1>Puns Are Fun</h1>
     <p><em> You can use puns around the house like,"That's not even <strong> punny </strong> any more!"</em></p>
