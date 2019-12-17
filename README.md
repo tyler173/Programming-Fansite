@@ -20,7 +20,7 @@
     </ol>
     <br>
     <ul>
-      <li><a href="Example Puns.html">Example Codes</a></li>
+      <li><a href="Example Puns.html">Example Code</a></li>
       <li><a href="Make your own Pun.html">Make your own Program</a></li>
     </ul>
   </body>
