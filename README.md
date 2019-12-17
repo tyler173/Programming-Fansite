@@ -3,8 +3,7 @@
   <head>
     <meta charset="utf-8">
     <title>Puns_Are_fun.org</title>
-    <link rel="stylesheet" href="tyler.css">
-  </head>
+  </head color: red;>
     <hr>
   <body>
     <center>
