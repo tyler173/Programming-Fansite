@@ -3,6 +3,7 @@
   <head>
     <meta charset="utf-8">
     <title>Puns_Are_fun.org</title>
+  </head>
     <hr>
   <body>
     <center>
