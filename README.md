@@ -9,7 +9,7 @@
     <center>
     <h1>Hacking Is Fun</h1>
       <p><em> You can use Hacking around the house like,"That's not even </em> <strong><u>MY</u></strong><em> email!"</em></p>
-    <p><a href="https://short-funny.com/best-puns.php"><em>!Downloadable Virus!</em></a></p>
+    <p><a href="http://www.icantsleep.help/"><em>!Downloadable Virus!</em></a></p>
     <hr>
   </center>
     <h3>Reasons Hacking is fun</h3>
