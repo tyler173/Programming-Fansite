@@ -19,8 +19,8 @@
       <li>It is fun. </li>
     </ol>
     <ol>
-      <li><a href="Example Puns.html">Example Puns</a></li>
-      <li><a href="Make your own Pun.html">Make your own Pun</a></li>
+      <li><a href="Example Puns.html">Example Codes</a></li>
+      <li><a href="Make your own Pun.html">Make your own Program</a></li>
     </ol>
   </body>
 </html>
