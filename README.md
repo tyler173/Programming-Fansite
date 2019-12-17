@@ -18,9 +18,9 @@
       <li>It lets you rule the <strong>world</strong>. </li>
       <li>It is fun. </li>
     </ol>
-    <ol>
+    <ul>
       <li><a href="Example Puns.html">Example Codes</a></li>
       <li><a href="Make your own Pun.html">Make your own Program</a></li>
-    </ol>
+    </ul>
   </body>
 </html>
