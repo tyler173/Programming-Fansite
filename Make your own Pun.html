@@ -13,10 +13,6 @@
     <hr size="3" noshade>
     <h3> Insert Code:</h3>
 
-    <form>
-      <textarea name="htmlArea" cols="80" rows="10"></textarea>
-      <input type="button" value=" view " onclick="displayHTML(this.form)">
-    </form>
    <form>
       <textarea name="htmlArea" cols="80" rows="10"></textarea>
       <br>
@@ -26,6 +22,11 @@
     <br>
     <br>
     <br>
+    function displayHTML(form) {
+  var inf = form.htmlArea.value;
+  win = window.open(", ", 'popup', 'toolbar = no, status = no');
+  win.document.write("" + inf + "");
+}
     
 
 
