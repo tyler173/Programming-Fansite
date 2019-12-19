@@ -9,14 +9,14 @@
     <center>
     <h1>Hacking Is Fun</h1>
     <p><em> You can use Hacking around the house like,"That's not even </em> <strong><u>MY</u></strong><em> email!"</em></p>
-    <p><a href="http://www.icantsleep.help/"><em>!Free Downloadable Virus!</em></a></p>
+    <p><a href="http://https://www.udemy.com/?utm_source=adwords-brand&utm_medium=udemyads&utm_campaign=Brand-Udemy_la.EN_cc.US&utm_term=_._ag_78616515599_._ad_388789121975_._de_c_._dm__._pl__._ti_aud-325382095161:kwd-310556426868_._li_9017277_._pd__._&utm_term=_._pd__._kw_udemy_._&matchtype=e&gclid=CjwKCAiA3OzvBRBXEiwALNKDP7vvmGmoW1llFdtcMweW7qjeLl95-JAJvLIVPXQVKpqZH-EdEBm5TRoCXroQAvD_BwE/"><em>Learn all you need to know about web development for only $10.00!</em></a></p>
     <hr>
   </center>
-    <h3>Reasons Hacking is fun</h3>
+    <h3>Reasons Programming is fun</h3>
     <ol>
       <li>It makes you laugh when you finally get past the CIA security system. </li>
-      <li>It lets you rule the <strong>world</strong>. </li>
-      <li>It is fun. </li>
+      <li>It lets you make things</li>
+      <li>It is a good thing to do when your bored. </li>
     </ol>
     <br>
     <ul>
