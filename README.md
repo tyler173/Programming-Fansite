@@ -9,7 +9,7 @@
     <center>
     <h1>Hacking Is Fun</h1>
     <p><em> You can use Hacking around the house like,"That's not even </em> <strong><u>MY</u></strong><em> email!"</em></p>
-    <li><a href="https://www.udemy.com/logout/">Learn all you need to know about web development for only $10.00!</a></li>
+    <a href="https://www.udemy.com/logout/">Learn all you need to know about web development for only $10.00!</a>
     <hr>
   </center>
     <h3>Reasons Programming is fun</h3>
