@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Programming Fansite ./</title>
+    <title>Programming Fansite</title>
   </head> 
   <body>
     <table>
