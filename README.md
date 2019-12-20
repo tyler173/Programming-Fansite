@@ -9,7 +9,7 @@
     <center>
     <h1>Programming Is Fun</h1>
     </center>
-    <h3>learn all you need to know about web development in a 52 hour course for only $10.00</h3><button                 onclick="window.location.href='https://www.udemy.com/course/the-complete-web-development-bootcamp/'">Buy Now</button>
+    <h3>learn all you need to know about web development in a 52 hour course for only $10.00</h3><button>                 onclick="window.location.href='https://www.udemy.com/course/the-complete-web-development-bootcamp/'">Buy Now</button>
     <hr>
     <h3>Reasons Programming is fun</h3>
     <ol>
@@ -19,8 +19,8 @@
     </ol>
     <br>
     <ul>
-      <li><a href="Example Puns.html">Example Code</a></li>
-      <li><a href="Make your own Pun.html">Make your own Program</a></li>
+      <button><li><a href="Example Puns.html">Example Code</a></li></button>
+      <button><li><a href="Make your own Pun.html">Make your own Program</a></button></li>
     </ul>
   </body>
 </html>
