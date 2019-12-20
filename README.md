@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>hello</title>
+    <title>Programming Fansite</title>
   </head>
     <hr>  
   <body>
@@ -22,5 +22,4 @@
       <li><a href="Example Puns.html">Example Code</a></li>
       <li><a href="Make your own Pun.html">Make your own Program</a></li>
     </ul>
-  </body>
-</html>
+
