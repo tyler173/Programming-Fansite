@@ -7,8 +7,8 @@
   <body>
     <table>
         <tr>
-            <td><li><a href="Example Puns.html">Example Code</a></li></td>
-            <td><li><a href="Make your own Pun.html">Make your own Program</a></li></td>
+            <td><a href="Example Puns.html">Example Code</a></td>
+            <td><a href="Make your own Pun.html">Make your own Program</a></td>
         </tr>
     </table>
     <hr>
@@ -24,8 +24,5 @@
       <li>It is a good thing to do when your bored. </li>
     </ol>
     <br>
-    <ul>
-      <li><a href="Example Puns.html">Example Code</a></li>
-      <li><a href="Make your own Pun.html">Make your own Program</a></li>
-    </ul>
+
 
