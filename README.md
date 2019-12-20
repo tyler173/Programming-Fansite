@@ -19,8 +19,8 @@
     </ol>
     <br>
     <ul>
-      <button><li><a href="Example Puns.html">Example Code</a></li></button>
-      <button><li><a href="Make your own Pun.html">Make your own Program</a></li></button>
+      <li><a href="Example Puns.html">Example Code</a></li>
+      <li><a href="Make your own Pun.html">Make your own Program</a></li>
     </ul>
   </body>
 </html>
