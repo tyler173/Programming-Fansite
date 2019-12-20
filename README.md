@@ -3,9 +3,15 @@
   <head>
     <meta charset="utf-8">
     <title>Programming Fansite</title>
-  </head>
-    <hr>  
+  </head> 
   <body>
+    <table>
+        <tr>
+            <td><li><a href="Example Puns.html">Example Code</a></li></td>
+            <td><li><a href="Make your own Pun.html">Make your own Program</a></li></td>
+        </tr>
+    </table>
+    <hr>
     <center>
     <h1>Programming Is Fun</h1>
     </center>
