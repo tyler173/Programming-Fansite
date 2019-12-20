@@ -10,7 +10,7 @@
     <h1>Programming Is Fun</h1>
     <h3>You can learn all you need to know about web development in a 52 hour course for only $10.00 <button onclick="window.location.href='https://www.udemy.com/course/the-complete-web-development-bootcamp/'">Buy Now</button>
     <hr>
-  </center>
+    </center>
     <h3>Reasons Programming is fun</h3>
     <ol>
       <li>It makes you laugh when you finally get past the CIA security system. </li>
