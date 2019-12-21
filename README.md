@@ -9,6 +9,7 @@
         <tr>
             <td><a href="Example Puns.html">Example Codes</a></td>
             <td><a href="Make your own Pun.html">Make your own Program</a></td>
+            <td><a href="Keyboard Sortcuts.html">Make your own Program</a></td>
         </tr>
     </table>
     <hr>
