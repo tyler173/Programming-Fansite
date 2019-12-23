@@ -2,6 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
+    <link rel="icon" href="favicon (2).ico">
     <title>Programming Fansite</title>
   </head> 
   <body>
