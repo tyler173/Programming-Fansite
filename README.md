@@ -3,7 +3,6 @@
   <head>
     <meta charset="utf-8">
     <title>Programming Fansite</title>
-    <link rel="icon" href=https://raw.githubusercontent.com/tyler173/Programming-Fansite/master/favicon%20(2).ico">
   </head> 
   <body>
     <table>
