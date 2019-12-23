@@ -2,8 +2,8 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <link rel="icon" href="favicon (2).ico">
     <title>Programming Fansite</title>
+    <link rel="stylesheet" href="tyler.css">
     <link rel="icon" href="favicon (2).ico">
   </head> 
   <body>
