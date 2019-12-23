@@ -4,6 +4,7 @@
     <meta charset="utf-8">
     <link rel="icon" href="favicon (2).ico">
     <title>Programming Fansite</title>
+    <link rel="icon" href="favicon (2).ico">
   </head> 
   <body>
     <table>
