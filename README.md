@@ -11,8 +11,11 @@
   <body>
     <table>
         <tr>
-         ................................................
+       
           <button type="button" class="btn btn-lg btn-block btn-primary"><a href="Keyboard Shortcuts.html">Keyboard Shortcuts</a></button>
+          <button type="button" class="btn btn-lg btn-block btn-primary"><a href="Keyboard Shortcuts.html">Keyboard Shortcuts</a></button>
+          <button type="button" class="btn btn-lg btn-block btn-primary"><a href="Keyboard Shortcuts.html">Keyboard Shortcuts</a></button>
+          <a class="btn btn-primary" href="#" role="button">Keyboard Shortcuts.html</a>
         </tr>
     </table>
     <hr>
