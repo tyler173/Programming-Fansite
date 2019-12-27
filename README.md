@@ -11,6 +11,9 @@
   <body>
     <table>
         <tr>
+            <button type="button" class="btn btn-lg btn-block btn-primary">
+            <button type="button" class="btn btn-lg btn-block btn-primary">
+            <button type="button" class="btn btn-lg btn-block btn-primary">
             <td><button type="button" class="btn btn-lg btn-block btn-primary"><a href="Example Puns.html">Example Codes</a></td>
             <td><button type="button" class="btn btn-lg btn-block btn-primary"><a href="Make your own Pun.html">Make your own Program</a></td>
             <td><button type="button" class="btn btn-lg btn-block btn-primary"><a href="Keyboard Shortcuts.html">Keyboard Shortcuts</a></td>
