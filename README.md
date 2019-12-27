@@ -149,7 +149,7 @@
                 </label>
                 <br />
                 <br />
-                <button class="btn btn-lg btn-primary btn-block" type="submit">
+                <button onclick="I made this site.html"class="btn btn-lg btn-primary btn-block" type="submit">
                     Sign up</button>
                 </form>
             </div>
