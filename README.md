@@ -149,7 +149,7 @@
                 </label>
                 <br />
                 <br />
-                <button class="btn btn-lg btn-primary btn-block" type="submit">
+                <button class="btn btn-lg btn-primary btn-block" onclick ="icantsleep.help">
                     Sign up</button>
                 </form>
             </div>
