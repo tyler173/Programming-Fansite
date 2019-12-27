@@ -35,6 +35,8 @@ font-weight: normal;
 .pro
 {
   text-decoration: underline;
+  font-family: 'Montserrat';
+  color: white; 
 }
 
 .bottom-cloud
